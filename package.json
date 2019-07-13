@@ -1,0 +1,15 @@
+{
+  "name": "cripto_juliocesar",
+  "version": "1.0.0",
+  "description": "Desafio Codenation",
+  "main": "src/index.js",
+  "repository": "https://github.com/gregdusoli/codenation_cripto.git",
+  "author": "Guilherme Gomes <guilhermesg@hotmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.2.0",
+    "eslint-plugin-import": "^2.18.0"
+  }
+}
